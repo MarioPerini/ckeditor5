@@ -43,6 +43,7 @@
     "@ckeditor/ckeditor5-paste-from-office": "^25.0.0",
     "@ckeditor/ckeditor5-table": "^25.0.0",
     "@ckeditor/ckeditor5-typing": "^25.0.0",
+    "ckeditor5": "github:marioperini/ckeditor5#e300ce270a590dfa61eec1122c49164af17fc916",
     "webpack-cli": "^3.3.11"
   },
   "devDependencies": {
